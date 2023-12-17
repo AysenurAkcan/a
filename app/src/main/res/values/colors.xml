@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="ust">#4D7A31</color>
+    <color name="button">#36472B</color>
+    <color name="yaziArkaPlan">#F3F1D7</color>
+    <color name="yazi">#C7B55B</color>
+    <color name="yazi1">#948C62</color>
+</resources>

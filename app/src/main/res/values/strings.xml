@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DG_SON</string>
+    //main sayfasi
+    <string name="editText">Kullanıcı Adı</string>
+    <string name="editTextPassword">Parola</string>
+    <string name="button">Giriş Yap</string>
+    <string name="button2">Kayıt Ol</string>
+    <string name="editText2">Diyet Günlüğüm</string>
+    //kayit ol sayfasi
+    <string name="baslıkKayit">Kullanıcı Kayıt Formu</string>
+    <string name="kullaniciAdi">Kullanıcı Adı</string>
+    <string name="eposta">E-posta</string>
+    <string name="cinsiyet">Cinsiyet</string>
+    <string name="yas">Yaş</string>
+    <string name="boy">Boy</string>
+    <string name="kilo">Kilo</string>
+    <string name="sifre">Şifre</string>
+    <string name="sifre2">Şifre Tekrar</string>
+    <string name="btnKayit">Kayıt Ol</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+   <item
+       android:id="@+id/ic_home"
+       android:title="Menü"
+       android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/ic_hesap"
+        android:title="Hesabım"
+        android:icon="@drawable/ic_hesap"/>
+
+</menu>
